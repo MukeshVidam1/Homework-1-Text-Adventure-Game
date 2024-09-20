@@ -1,4 +1,4 @@
-#The Enchanted Library
+# The Enchanted Library
 
 The Enchanted Library: A Scholar's Quest
 
