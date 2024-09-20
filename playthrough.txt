@@ -1,0 +1,3 @@
+To win the game, these are the commands one should use.
+
+get card, go north, go north, get spectacles, go south, go east, get quill, use quill, go up, get chart, read chart, go down, go west, go west, get vial, drink vial, get amulet, go east, go north, go east, get tome, read tome, go down, get key, use key, go up, go west, go south, go south
